@@ -1,2 +1,4 @@
 # SPDX-License-Identifier: MIT
 kconf hardware nvidia-orin.cfg
+
+include features/profiling/profiling.scc
